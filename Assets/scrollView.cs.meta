@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e988fbd5059bd446b61340212c13454
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scrollV: {instanceID: 0}
+  - scrollContent: {instanceID: 0}
+  - prefabAN: {fileID: 1755838196477032, guid: 53b25d55b6aba874090e0b25b1b7a2dd, type: 2}
+  - prefabDIG: {fileID: 1388752112244466, guid: 344849f25eaa3bc48969eda2d44c4990,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
